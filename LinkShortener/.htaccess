@@ -1,0 +1,6 @@
+
+
+RewriteEngine On
+
+RewriteRule ^url$ LinkShortener/app/views/shorten.php
+
